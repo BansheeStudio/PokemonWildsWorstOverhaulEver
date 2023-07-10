@@ -1,3 +1,4 @@
+(DEPRECIATED!) ONLY FOR 0.8.X
 This is a fork of the Gen 3 Overhaul Mod
 it was made as a joke to claim #1 for worst wilds mod ever but turned out to be liked by people for being the most bonkers funny hay
 
